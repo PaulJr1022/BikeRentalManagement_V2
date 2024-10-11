@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ut01185\\Desktop\\MileStone2\\BikeRentalManagement_V2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D1A9391-4B59-4202-8EF0-3A657BA22023}|BikeRentalManagement_V2\\BikeRentalManagement_V2.csproj|c:\\users\\ut01185\\desktop\\milestone2\\bikerentalmanagement_v2\\bikerentalmanagement_v2\\bikes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D1A9391-4B59-4202-8EF0-3A657BA22023}|BikeRentalManagement_V2\\BikeRentalManagement_V2.csproj|solutionrelative:bikerentalmanagement_v2\\bikes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D1A9391-4B59-4202-8EF0-3A657BA22023}|BikeRentalManagement_V2\\BikeRentalManagement_V2.csproj|c:\\users\\ut01185\\desktop\\milestone2\\bikerentalmanagement_v2\\bikerentalmanagement_v2\\bikerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D1A9391-4B59-4202-8EF0-3A657BA22023}|BikeRentalManagement_V2\\BikeRentalManagement_V2.csproj|solutionrelative:bikerentalmanagement_v2\\bikerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D1A9391-4B59-4202-8EF0-3A657BA22023}|BikeRentalManagement_V2\\BikeRentalManagement_V2.csproj|c:\\users\\ut01185\\desktop\\milestone2\\bikerentalmanagement_v2\\bikerentalmanagement_v2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D1A9391-4B59-4202-8EF0-3A657BA22023}|BikeRentalManagement_V2\\BikeRentalManagement_V2.csproj|solutionrelative:bikerentalmanagement_v2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BikeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ut01185\\Desktop\\MileStone2\\BikeRentalManagement_V2\\BikeRentalManagement_V2\\BikeRepository.cs",
+              "RelativeDocumentMoniker": "BikeRentalManagement_V2\\BikeRepository.cs",
+              "ToolTip": "C:\\Users\\Ut01185\\Desktop\\MileStone2\\BikeRentalManagement_V2\\BikeRentalManagement_V2\\BikeRepository.cs",
+              "RelativeToolTip": "BikeRentalManagement_V2\\BikeRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T06:25:17.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bikes.cs",
+              "DocumentMoniker": "C:\\Users\\Ut01185\\Desktop\\MileStone2\\BikeRentalManagement_V2\\BikeRentalManagement_V2\\Bikes.cs",
+              "RelativeDocumentMoniker": "BikeRentalManagement_V2\\Bikes.cs",
+              "ToolTip": "C:\\Users\\Ut01185\\Desktop\\MileStone2\\BikeRentalManagement_V2\\BikeRentalManagement_V2\\Bikes.cs",
+              "RelativeToolTip": "BikeRentalManagement_V2\\Bikes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T06:09:40.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ut01185\\Desktop\\MileStone2\\BikeRentalManagement_V2\\BikeRentalManagement_V2\\Program.cs",
+              "RelativeDocumentMoniker": "BikeRentalManagement_V2\\Program.cs",
+              "ToolTip": "C:\\Users\\Ut01185\\Desktop\\MileStone2\\BikeRentalManagement_V2\\BikeRentalManagement_V2\\Program.cs",
+              "RelativeToolTip": "BikeRentalManagement_V2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T06:08:19.945Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
